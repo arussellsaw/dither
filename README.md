@@ -1,3 +1,5 @@
+first install imagemagick with `brew install imagemagick`
+
 add your photos to the directory
 
 ```
